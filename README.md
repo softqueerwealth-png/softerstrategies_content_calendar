@@ -1,4 +1,4 @@
-# Lissa Jean Ferrell, Esq. | Content Calendar: https://softqueerwealth-png.github.io/softerstrategies_content_calendar/
+# Lissa Jean Ferrell, Esq. | Content Calendar
 
 **An interactive content planning experience by Softer Strategies LLC.**
 
@@ -9,6 +9,8 @@ This interactive calendar supports the content strategy and digital brand manage
 The calendar provides a visual overview of upcoming content, creative storytelling concepts, proposed publishing dates, and production status.
 
 The experience is designed to make content planning collaborative, accessible, and easy to navigate.
+
+Webpage: https://softqueerwealth-png.github.io/softerstrategies_content_calendar/
 
 ## October 2026: Travel + Taste
 
