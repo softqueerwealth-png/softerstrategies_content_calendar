@@ -1,0 +1,2 @@
+# softerstrategies_content_calendar
+Monthly Content Calendar
