@@ -1,4 +1,4 @@
-# Lissa Jean Ferrell, Esq. | Content Calendar
+# Lissa Jean Ferrell, Esq. | Content Calendar: https://softqueerwealth-png.github.io/softerstrategies_content_calendar/
 
 **An interactive content planning experience by Softer Strategies LLC.**
 
