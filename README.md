@@ -12,7 +12,8 @@ The experience is designed to make content planning collaborative, accessible, a
 
 Webpage: https://softqueerwealth-png.github.io/softerstrategies_content_calendar/
 
-## October 2026: Travel + Taste
+## November 2026: Lissa, in Her Own Words
+A thoughtful mix of life, travel, real estate education, and the perspective behind 20+ years of professional experience.
 
 **Theme:** Experiencing the world through Lissa's lens.
 
